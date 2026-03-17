@@ -3,5 +3,5 @@
     image: backend
     build:
       context: .
-      dockerfile: backend/Dockerfile
+      dockerfile: Dockerfile
 
